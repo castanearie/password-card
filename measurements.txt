@@ -1,0 +1,11 @@
+One card is 85x54mm
+One page is 210x297mm
+One page holds 10 cards
+
+borders from top left
+columns: 15.0mm, 110.0mm
+rows: 13.5mm, 67.5mm, 121.5mm, 175.5mm, 229.5mm
+
+centers from bottom left
+columns: 57.5mm, 152.5mm
+rows: 256.5mm, 202.5mm, 148.5mm, 94.5mm, 40.5mm
